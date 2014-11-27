@@ -1,0 +1,13 @@
+{
+  "name": "mlf-wobbly-who",
+  "version": "1.0.0",
+  "description": "A Whovian Flappy Bird Game",
+  "main": "app.js",
+  "author": "Melanie L. Fryman <melanie@fryman.io>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.0",
+    "morgan": "^1.4.0",
+    "serve-static": "^1.7.0"
+  }
+}

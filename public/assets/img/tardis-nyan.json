@@ -1,0 +1,120 @@
+{"frames": [
+
+{
+	"filename": "tardis-nyan01.png",
+	"frame": {"x":2,"y":2,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan02.png",
+	"frame": {"x":2,"y":204,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan03.png",
+	"frame": {"x":2,"y":406,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan04.png",
+	"frame": {"x":2,"y":608,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan05.png",
+	"frame": {"x":2,"y":810,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan06.png",
+	"frame": {"x":2,"y":1012,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan07.png",
+	"frame": {"x":2,"y":1214,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan08.png",
+	"frame": {"x":2,"y":1416,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan09.png",
+	"frame": {"x":2,"y":1618,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan10.png",
+	"frame": {"x":2,"y":1820,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan11.png",
+	"frame": {"x":2,"y":2022,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tardis-nyan12.png",
+	"frame": {"x":2,"y":2224,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tardis-sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":204,"h":2426},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:179441be5aee7956f76cc7536f8677df:8810f07a4c9264bbb6b3702dfc44f46b:d8f58ea20acc1d6eafce75ce88821112$"
+}
+}
