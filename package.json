@@ -1,5 +1,5 @@
 {
-  "name": "mlf-wobbly-who",
+  "name": "wobblywho",
   "version": "1.0.0",
   "description": "A Whovian Flappy Bird Game",
   "main": "app.js",
