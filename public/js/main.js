@@ -13,7 +13,6 @@ var menuMusic,
     gameMusic,
     tardisSound,
     jumpSound,
-    killSound,
     gameOver;
 
 /* SCORE & TIMER */

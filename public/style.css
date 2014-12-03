@@ -23,7 +23,11 @@
     font-style: normal;
 }
 
-.fontPreload{
+.fontPreload1{
     position:absolute;
     left:-200px;
+}
+.fontPreload2{
+    position:absolute;
+    left:-150px;
 }

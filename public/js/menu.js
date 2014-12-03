@@ -8,6 +8,7 @@
     // IMAGES
     game.load.image('menuBg',       'assets/img/gallifrey.jpg');
     game.load.image('play',         'assets/img/play.png');
+    game.load.image('menu',         'assets/img/menu.png');
     game.load.image('dalek',        'assets/img/dalek.png');
     game.load.image('bg',           'assets/img/spaceRainbows.jpg');
 
