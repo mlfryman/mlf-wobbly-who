@@ -3,8 +3,13 @@ Wobbly Who
 
 Flappy Birdesque game with a Whovian twist.
 
-##Screenshots
+### Screenshots
+![Image1](https://raw.githubusercontent.com/mlfryman/wobblywho/master/docs/screenshots/screenshot1.png)
+![Image1](https://raw.githubusercontent.com/mlfryman/wobblywho/master/docs/screenshots/screenshot2.png)
+![Image1](https://raw.githubusercontent.com/mlfryman/wobblywho/master/docs/screenshots/screenshot3.png)
 
-![Menu Screenshot](https://dl.dropboxusercontent.com/u/1699691/portfolio-website/wobblywho-menu.png)
-![Game Screenshot](https://dl.dropboxusercontent.com/u/1699691/portfolio-website/wobblywho-lvl1.png)
-![Kill Screenshot](https://dl.dropboxusercontent.com/u/1699691/portfolio-website/wobblywho-gameover.png)
+### Contributors
+- [Melanie L. Fryman](https://github.com/mlfryman)
+
+### License
+- [MIT](LICENSE)
