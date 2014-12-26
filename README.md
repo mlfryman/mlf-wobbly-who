@@ -1,7 +1,7 @@
 Wobbly Who
 ==========
 
-Flappy Birdesque game with a Whovian twist.
+A Whovian twist on Flappy Bird.
 
 ### Screenshots
 ![Image1](https://raw.githubusercontent.com/mlfryman/wobblywho/master/docs/screenshots/screenshot1.png)
